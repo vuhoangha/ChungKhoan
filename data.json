@@ -1,0 +1,1698 @@
+[
+
+    {
+        "currency": "EUR/USD"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "GBP/USD"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "USD/JPY"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "USD/CHF"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "USD/CAD"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "AUD/USD"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "EUR/GBP"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "EUR/JPY"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "GBP/JPY"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "ZAQ/USD"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "XSW/USD"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "CDE/JPY"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "RVF/CHF"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "TBG/CAD"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "YHN/USD"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "QWE/USD"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "WER/USD"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "ERT/JPY"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "RTY/CHF"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "TYU/CAD"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "YUI/USD"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "UIO/GBP"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "IOP/JPY"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "OPA/JPY"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "ASD/USD"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "SDF/USD"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "DFG/JPY"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "FGH/CHF"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "GHJ/CAD"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "HJK/USD"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "EUR/QAZ"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "GBP/WSX"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "USD/EDC"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "USD/RFV"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "USD/TGB"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "AUD/YHN"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "EUR/UJM"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "EUR/IKL"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "GBP/OLP"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "ZAQ/QWA"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "XSW/WES"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "CDE/ERD"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "RVF/RTF"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "TBG/TYG"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "YHN/YUH"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "QWE/UIJ"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "WER/IOK"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "ERT/OPZ"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "RTY/QWZ"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "TYU/WEX"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "YUI/ERC"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "UIO/RTV"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "IOP/TYB"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "OPA/YUB"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "ASD/UIN"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "SDF/IOM"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "DFG/OPP"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "FGH/ASZ"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "GHJ/SDX"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "HJK/DFC"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+
+
+
+
+
+    {
+        "currency": "001"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "002"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "003"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "004"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "005"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "006"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "007"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "008"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "009"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "010"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "011"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "012"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "013"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "014"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "015"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "016"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "017"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "018"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "019"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "020"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "021"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "022"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "023"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "024"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "025"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "QQ/026"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "WW/027"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "EE/028"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "RR/029"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "TT/030"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "YY/031"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "UU/032"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "II/033"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "OO/034"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "PP/035"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "AA/036"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "SS/037"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "DD/038"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "FF/039"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "GG/040"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "HH/041"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "JJ/042"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "KK/043"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "LL/044"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "ZZ/045"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "XX/046"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "CC/047"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "VV/048"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "BB/049"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "NN/050"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "MM/051"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "11/052"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "22/053"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "33/054"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "44/055"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "55/056"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "66/057"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "77/058"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "88/059"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "99/060"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "currency": "001/001"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "002/002"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "003/003"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "004/004"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "005/005"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "006/006"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "007/007"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "008/008"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "009/009"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "010/010"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "011/011"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "012/012"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "013/013"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "014/014"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "015/015"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "016/016"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "017/017"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "018/018"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "019/019"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "020/020"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "021/021"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "022/022"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "023/023"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "024/024"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "025/025"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "026/026"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "027/027"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "028/028"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "029/029"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "030/030"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "031/031"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "032/032"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "033/033"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "034/034"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "035/035"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "036/036"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "037/037"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "038/038"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "039/039"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "040/040"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "040/040"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "041/041"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "042/042"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "043/043"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "044/044"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "045/045"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "046/046"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "047/047"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "048/048"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "049/049"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "050/050"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "051/051"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "052/052"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "053/053"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "054/054"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "055/055"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "056/056"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "057/057"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "058/058"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "059/059"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "060/060"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "061/061"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "062/062"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "063/063"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "064/064"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "065/065"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "066/066"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "067/067"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "068/068"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "069/069"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "070/070"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "071/071"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "072/072"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "073/073"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "074/074"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "075/075"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "076/076"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "077/077"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "078/078"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "079/079"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "080/080"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "081/081"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "082/082"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "083/083"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "084/084"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "085/085"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "086/086"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "087/087"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "088/088"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "089/089"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "090/090"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "091/091"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "092/092"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "093/093"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "094/094"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "095/095"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "096/096"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "097/097"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "098/098"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "099/099"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "100/100"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "101/101"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "102/102"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "103/103"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "104/104"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "105/105"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "106/106"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "107/107"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "108/108"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "109/109"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "110/110"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	},
+
+    {
+        "currency": "111/111"
+        , "sell": 0.7810
+        , "buy": 0.7812
+        , "round": 4
+	},
+
+    {
+        "currency": "112/112"
+        , "sell": 125.63
+        , "buy": 125.65
+        , "round": 2
+	},
+
+    {
+        "currency": "113/113"
+        , "sell": 160.83
+        , "buy": 160.85
+        , "round": 2
+	},
+
+    {
+        "currency": "114/114"
+        , "sell": 1.1284
+        , "buy": 1.1285
+        , "round": 4
+	},
+
+    {
+        "currency": "115/115"
+        , "sell": 1.4446
+        , "buy": 1.4448
+        , "round": 4
+	},
+
+    {
+        "currency": "116/116"
+        , "sell": 111.33
+        , "buy": 111.34
+        , "round": 2
+	},
+
+    {
+        "currency": "117/117"
+        , "sell": 0.9677
+        , "buy": 0.9679
+        , "round": 4
+	},
+
+    {
+        "currency": "118/118"
+        , "sell": 1.3004
+        , "buy": 1.3006
+        , "round": 4
+	},
+
+    {
+        "currency": "119/119"
+        , "sell": 0.7627
+        , "buy": 0.7628
+        , "round": 4
+	}
+
+]
