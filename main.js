@@ -18,6 +18,7 @@ for (var i = 0; i < json.length; i++) {
     }
 }
 
+
 //lưu giá trị khi chạy web
 var valueRun = new Array();
 var numValue = value.length;
